@@ -18,7 +18,7 @@
 </div>
 <br><br>
 
-![Snake animation](https://github.com/aleach/aleach/blob/snake/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/aleach/aleach/blob/snake/github-snake.svg)
 
 ## Interests:
 - Security
