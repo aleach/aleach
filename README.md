@@ -1,7 +1,7 @@
 # Hi there! I'm Anthony 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=aleach.aleach)
 
-- 💻 Global DevOps Lead at Hogarth
+- 💻 Global Head of DevSecOps, Hogarth
 - 📚 Previous Principle Engineer
 
 ### 🤝 Connect with me:
